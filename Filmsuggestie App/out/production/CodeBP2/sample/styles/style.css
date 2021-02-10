@@ -1,0 +1,28 @@
+
+#bp{
+    -fx-background-image: url("/sample/images/backgroundLogIn.jpg");
+}
+
+#root{
+    -fx-background-color: white;
+}
+
+#movieId{
+    -fx-background-image: url("/sample/images/backgroundMovie.jpg");
+}
+
+#ListBackground{
+    -fx-background-image: url("/sample/images/backgroundList.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 1100px;
+    -fx-background-position: center;
+}
+
+#backgroundLogin{
+    -fx-background-image: url("/sample/images/LoginBackGround.jpg");
+    -fx-background-position: center;
+
+}
+
+
+
